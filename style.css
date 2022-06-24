@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .logo{
     width: 160px;
 }
@@ -13,8 +16,27 @@
     background-color: black;
     width: 130px;
     height: 40px;
+    
+
 }
 
 .bg-mid{
     width: 0px;
 }
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.categories{
+    text-align: center;
+    
+}
+
+.mehedi{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
