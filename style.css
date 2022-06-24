@@ -1,0 +1,20 @@
+.logo{
+    width: 160px;
+}
+
+.hi{
+
+    background-color: red;
+}
+
+.buy-now-button{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    width: 130px;
+    height: 40px;
+}
+
+.bg-mid{
+    width: 0px;
+}
